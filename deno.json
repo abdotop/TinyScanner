@@ -1,0 +1,8 @@
+{
+  "tasks": {
+    "scan": "deno run --allow-net --unstable-net src/main.ts",
+    "udp": "deno run --allow-net --unstable-net server/udp.ts",
+    "tcp": "deno run --allow-net --unstable-net server/tcp.ts",
+    "help":"deno task scan -h"
+  }
+}
