@@ -25,7 +25,7 @@ and UDP servers for testing purposes.
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/tinyscanner.git
+   git clone https://github.com/abdotop/TinyScanner.git
    cd tinyscanner
    ```
 
